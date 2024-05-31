@@ -11,7 +11,9 @@ The number of listeners is 304 and we conducted the test on [Prolific](https://w
 The result of subjectvie evaluation is available on file named `VMC2024_MOS` 
 
 The data is fomatted in the following form
+```
 systemID/systemID-uttranceID.wav MOS 95%ConfidenceInterval (answer by each listner : total listerns of the utterance)
+```
 
 ```
 sys00691/sys00691-utt00e6ae6.wav 3.375000 0.886734 (1:0,2:2,3:2,4:3,5:1,total: 8)
